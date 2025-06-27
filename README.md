@@ -1,4 +1,5 @@
 # Ola mundo
 primeiro repositorio do curso de git e github
-Ola mundo
-Mudei durante uma aula
+Opa, mundo
+
+Mudei durante a aula
